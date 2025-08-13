@@ -8,3 +8,4 @@ func TestSum(t *testing.T) {
 		t.Errorf("Resultado da soma %d. Esta incorreto, Esperado: %d", total, 5)
 	}
 }
+
